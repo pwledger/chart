@@ -1,5 +1,5 @@
 
-http://api.openweathermap.org/data/2.5/forecast?id=
-1835848
-&appid=
-9da839bf53a5a833dae8588031654cf6
+https://api.openweathermap.org/data/2.5/weather?
+lat=44.34
+&lon=10.99
+&appid=9da839bf53a5a833dae8588031654cf6
